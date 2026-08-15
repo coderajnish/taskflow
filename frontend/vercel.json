@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://taskflow-backend-xm7i.onrender.com/api/$1"
+    }
+  ]
+}
